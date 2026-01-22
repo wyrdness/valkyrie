@@ -1,0 +1,333 @@
+{
+  "category": "MYTHOLOGICAL_CREATURE",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/valkyrie",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "valkyrie",
+    "name": "Valkyrie",
+    "aliases": [
+      {
+        "name": "Valkyrja",
+        "language": "Old Norse",
+        "meaning": "Chooser of the slain"
+      },
+      {
+        "name": "Wælcyrie",
+        "language": "Old English",
+        "meaning": "Chooser of the slain"
+      },
+      {
+        "name": "Shield-maiden",
+        "language": "English",
+        "meaning": "Female warrior"
+      },
+      {
+        "name": "Swan-maiden",
+        "language": "English",
+        "meaning": "Shapeshifter form"
+      }
+    ],
+    "category": "MYTHOLOGICAL_CREATURE",
+    "subcategory": "Entity/Spirit",
+    "tags": [
+      "norse-mythology",
+      "female-warrior",
+      "psychopomp",
+      "spirit",
+      "odin",
+      "valhalla",
+      "shapeshifter",
+      "fate"
+    ],
+    "status": "mythological",
+    "description": {
+      "summary": "Norse female figures who choose who lives and dies in battle, serving Odin by selecting worthy warriors for Valhalla and serving mead in his hall.",
+      "full": "Valkyries are female figures in Norse mythology who serve Odin, the Allfather. Their name means 'chooser of the slain' in Old Norse. They decide which warriors die in battle and which survive, then guide the slain heroes to Valhalla (Odin's hall) or Fólkvangr (Freyja's hall). Depicted as beautiful, armored female warriors who ride winged horses or wolves through the air, they also serve as handmaidens in Valhalla, bringing mead to the einherjar (chosen warriors) who prepare for Ragnarök. Valkyries are associated with swans and can transform into swan-maidens. Famous Valkyries include Brynhildr from the Völsunga saga, cursed by Odin for defying him."
+    },
+    "etymology": {
+      "origin": "Old Norse 'valkyrja', from 'valr' (the slain) and 'kyrja' (chooser)",
+      "meaning": "Chooser of the slain",
+      "first_use": "Circa 9th century in Old Norse poetry"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "MYTHOLOGICAL_CREATURE",
+      "type": "Entity/Spirit",
+      "subtype": "Psychopomp",
+      "variant": "Norse"
+    },
+    "related_phenomena": [
+      {
+        "id": "norns",
+        "name": "Norns",
+        "relationship": "related",
+        "description": "Norse fate goddesses, sometimes depicted as relatives of Valkyries"
+      },
+      {
+        "id": "banshee",
+        "name": "Banshee",
+        "relationship": "similar",
+        "description": "Celtic death messenger, announces death like Valkyries choose death"
+      },
+      {
+        "id": "fury",
+        "name": "Furies",
+        "relationship": "similar",
+        "description": "Greek female spirits of vengeance and death"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "features": [
+        {
+          "feature": "Appearance",
+          "description": "Beautiful women in armor with shields and spears",
+          "frequency": "always"
+        },
+        {
+          "feature": "Mount",
+          "description": "Ride winged horses or wolves through the air",
+          "frequency": "common"
+        },
+        {
+          "feature": "Swan form",
+          "description": "Can transform into swans (swan-maidens)",
+          "frequency": "occasional"
+        },
+        {
+          "feature": "Armor",
+          "description": "Typically depicted in gleaming armor with helmets",
+          "frequency": "common"
+        },
+        {
+          "feature": "Weapons",
+          "description": "Carry spears, shields, sometimes swords",
+          "frequency": "always"
+        }
+      ],
+      "morphology": "Female warrior form, ethereal and powerful, with ability to shapeshift into swan form"
+    },
+    "abilities": [
+      {
+        "ability": "Battle selection",
+        "description": "Choose which warriors live or die in battle",
+        "frequency": "always",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Soul guidance",
+        "description": "Guide slain warriors to Valhalla or Fólkvangr",
+        "frequency": "always",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Shapeshifting",
+        "description": "Transform into swans or other forms",
+        "frequency": "occasional",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Flight",
+        "description": "Ride through the air on winged mounts",
+        "frequency": "common",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Prophecy",
+        "description": "Some Valkyries weave the fates of warriors",
+        "frequency": "rare",
+        "evidence_level": "mythological"
+      }
+    ],
+    "behavior": {
+      "activity_period": "battle-time",
+      "disposition": "neutral",
+      "social_structure": "serve Odin in groups",
+      "habitat_preference": [
+        "battlefields",
+        "Valhalla",
+        "the sky"
+      ],
+      "patterns": [
+        "Appear during battles",
+        "Serve mead to einherjar in Valhalla",
+        "Sometimes fall in love with mortal heroes",
+        "Can be cursed or punished by Odin for disobedience"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Norse mythology throughout Scandinavia and areas influenced by Norse culture",
+      "continents": ["Europe"],
+      "countries": ["Norway", "Sweden", "Denmark", "Iceland"],
+      "regions": [
+        "Scandinavia",
+        "Iceland",
+        "Norse settlements"
+      ]
+    },
+    "temporal": {
+      "first_recorded": {
+        "date": "9th century",
+        "circa": true,
+        "source": "Old Norse poetry and sagas"
+      },
+      "cultural_period": "Viking Age (793-1066 CE) and earlier",
+      "modern_presence": "Continues in popular culture and neo-pagan traditions"
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Germanic and Norse paganism, pre-Christian Scandinavian religion",
+      "earliest_accounts": "Old Norse Eddic poetry (9th-13th century)",
+      "folklore_connections": "Connected to Germanic female battle spirits, swan-maidens, and fate goddesses"
+    },
+    "timeline": [
+      {
+        "date": "9th century",
+        "event": "Earliest written references",
+        "significance": "Old Norse poetry mentions Valkyries",
+        "source": "Poetic Edda"
+      },
+      {
+        "date": "13th century",
+        "event": "Prose Edda compiled",
+        "significance": "Snorri Sturluson records systematic Valkyrie mythology",
+        "source": "Prose Edda by Snorri Sturluson"
+      },
+      {
+        "date": "13th century",
+        "event": "Völsunga saga",
+        "significance": "Brynhildr story: Valkyrie cursed by Odin for disobedience",
+        "source": "Völsunga saga"
+      },
+      {
+        "date": "1870",
+        "event": "Wagner's Die Walküre",
+        "significance": "Opera popularizes Valkyries in modern culture with 'Ride of the Valkyries'",
+        "source": "Richard Wagner's Ring Cycle"
+      }
+    ],
+    "modern_era": "Valkyries remain prominent in popular culture through Marvel Comics/MCU, fantasy literature, Viking-themed media, and as feminist warrior symbols. Wagner's 'Ride of the Valkyries' is one of the most recognized classical music pieces."
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Norse mythology",
+        "Germanic paganism",
+        "Icelandic sagas"
+      ],
+      "stories": [
+        "Brynhildr's curse and sleep (Völsunga saga)",
+        "Nine Valkyries named in various sagas",
+        "Valkyries weaving the fates of warriors (Darraðarljóð poem)"
+      ],
+      "beliefs": "Served Odin, determined battle outcomes, prepared warriors for Ragnarök"
+    },
+    "famous_valkyries": [
+      {
+        "name": "Brynhildr",
+        "description": "Most famous Valkyrie, cursed by Odin and placed in enchanted sleep",
+        "source": "Völsunga saga"
+      },
+      {
+        "name": "Gunnr",
+        "description": "Named in several sources, name means 'war'",
+        "source": "Various sagas"
+      },
+      {
+        "name": "Hildr",
+        "description": "Name means 'battle', appears in several poems",
+        "source": "Various sagas"
+      },
+      {
+        "name": "Sigrún",
+        "description": "Featured in Helgakviða Hundingsbana, falls in love with hero",
+        "source": "Poetic Edda"
+      }
+    ],
+    "popular_culture": {
+      "literature": [
+        "Norse sagas and Eddas",
+        "Wagner's Ring Cycle (1870s)",
+        "Marvel Comics (various)",
+        "Fantasy role-playing games"
+      ],
+      "film_tv": [
+        "Marvel Cinematic Universe (Valkyrie character)",
+        "Vikings TV series",
+        "Various fantasy films and shows"
+      ],
+      "music": [
+        "Wagner's 'Ride of the Valkyries' (most famous use)",
+        "Heavy metal music (frequent Norse mythology themes)"
+      ],
+      "other": [
+        "Feminist warrior symbolism",
+        "Video games (God of War, etc.)",
+        "Modern neo-pagan practices"
+      ]
+    }
+  },
+
+  "symbolism": {
+    "themes": [
+      "Fate in battle",
+      "Honor in death",
+      "Warrior maiden archetype",
+      "Female agency and power",
+      "Death as transformation"
+    ],
+    "modern_interpretation": "Symbol of female empowerment, warrior spirit, and honorable death in battle"
+  },
+
+  "sources": [
+    {
+      "id": "prose-edda",
+      "type": "book",
+      "title": "Prose Edda",
+      "authors": ["Snorri Sturluson"],
+      "date": "c. 1220",
+      "notes": "Primary source for Norse mythology"
+    },
+    {
+      "id": "poetic-edda",
+      "type": "book",
+      "title": "Poetic Edda",
+      "date": "c. 9th-13th century",
+      "notes": "Collection of Old Norse poems"
+    },
+    {
+      "id": "volsunga-saga",
+      "type": "book",
+      "title": "Völsunga saga",
+      "date": "c. 13th century",
+      "notes": "Contains Brynhildr's story"
+    }
+  ]
+}
